@@ -7,8 +7,6 @@ This is the server application to allow chat over a local network.
 
  */
 
-package carter.stech.exercise33_09;
-
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
